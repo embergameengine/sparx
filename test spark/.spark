@@ -1,0 +1,8 @@
+{
+    "name": "test spark",
+    "author": "ember",
+    "version": "v1.0.0",
+    "sparks": [],
+    "libraryDll": "TestSpark.dll",
+    "mainNamespace": "TestSpark"
+}
